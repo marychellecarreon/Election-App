@@ -13,7 +13,8 @@
  
  - Then, it will ask for the name of the voter
  
-
+ ![screen shot 2017-09-03 at 6 18 04 am](https://user-images.githubusercontent.com/26729817/29999159-899aed04-9070-11e7-8d3a-8493f05308bc.png)
+ 
  
  - After that, it will now ask for the # of your candidate
 
