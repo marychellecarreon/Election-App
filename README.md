@@ -15,7 +15,7 @@
  
  - After that, it will now ask for the # of your candidate
  
- 
+ ![screen shot 2017-09-02 at 9 57 08 pm](https://user-images.githubusercontent.com/26729817/29996051-e4719a9e-9029-11e7-9a87-b9f852fa7c58.png)
 
 
  
