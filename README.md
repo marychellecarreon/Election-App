@@ -20,9 +20,8 @@
  
  - Now, the vote will be counted. Then it will ask for the next voter. If type y, it will go back to the list of candidates with the vote counted.
  
+![screen shot 2017-09-02 at 10 03 31 pm](https://user-images.githubusercontent.com/26729817/29996093-b3911192-902a-11e7-8b65-27c57c5f6e8d.png)
 
-
- 
  
  - if type n, it will now close the system and will show the tally of votes
  
