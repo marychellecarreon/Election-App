@@ -7,6 +7,9 @@
 
  - The app will show the list of candidates and will show you the counter what is the current # of the vote.
  
+   ![screen shot 2017-09-02 at 12 19 46 pm](https://user-images.githubusercontent.com/26729817/29992924-07f0abe0-8fda-11e7-9b0b-a243501115a7.png)
+
+ 
  
  
  - Then, it will ask for the name of the voter
