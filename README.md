@@ -26,6 +26,6 @@
  
  - if type n, it will now close the system and will show the tally of votes
  
+![screen shot 2017-09-02 at 9 57 48 pm](https://user-images.githubusercontent.com/26729817/29996056-f1e941fe-9029-11e7-84bb-5c771cc584cf.png)
 
- 
  
