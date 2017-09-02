@@ -14,13 +14,13 @@
 ![screen shot 2017-09-02 at 9 56 50 pm](https://user-images.githubusercontent.com/26729817/29996049-dec871e4-9029-11e7-82b4-cbc1cbf09c82.png)
  
  - After that, it will now ask for the # of your candidate
- 
- ![screen shot 2017-09-02 at 9 57 08 pm](https://user-images.githubusercontent.com/26729817/29996051-e4719a9e-9029-11e7-9a87-b9f852fa7c58.png)
+
 
 
  
  - Now, the vote will be counted. Then it will ask for the next voter. If type y, it will go back to the list of candidates with the vote counted.
  
+
 
  
  
