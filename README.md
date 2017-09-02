@@ -22,6 +22,8 @@
  
  - Now, the vote will be counted. Then it will ask for the next voter. If type y, it will go back to the list of candidates with the vote counted.
  
+ ![screen shot 2017-09-02 at 12 23 56 pm](https://user-images.githubusercontent.com/26729817/29992933-3875a338-8fda-11e7-99d5-e918dfd269d6.png)
+ 
  
  
  - if type n, it will now close the system and will show the tally of votes
