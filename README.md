@@ -15,7 +15,7 @@
  
  - After that, it will now ask for the # of your candidate
 
-
+![screen shot 2017-09-02 at 10 03 01 pm](https://user-images.githubusercontent.com/26729817/29996091-ad09b2de-902a-11e7-9a39-6472de73f1a0.png)
 
  
  - Now, the vote will be counted. Then it will ask for the next voter. If type y, it will go back to the list of candidates with the vote counted.
